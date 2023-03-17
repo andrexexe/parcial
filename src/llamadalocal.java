@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class llamadalocal {
+public class llamadalocal {
+    private int nllamadas;
+    private int duracion;
+    private double costototal;
 }

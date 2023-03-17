@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class largadistancia {
+public class largadistancia {
+    private int nllamadas;
+    private int duracion;
+    private double costototal;
+
+
 }
