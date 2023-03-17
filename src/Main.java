@@ -1,4 +1,5 @@
-
+// Andres David Mendez Rodriguez
+//id 704011
 /*
 PARCIAL ARQUITECTURA DE DATOS
 Se quiere crear una aplicación para controlar los gastos telefónicos de una empresa.
